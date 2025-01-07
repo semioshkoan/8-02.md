@@ -244,6 +244,6 @@ Finished: SUCCESS
 
 ![imeg](https://github.com/semioshkoan/8-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_140.png)
 
-![imeg]
+![imeg](https://github.com/semioshkoan/8-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_141.png)
 
 ---
