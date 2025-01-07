@@ -29,7 +29,7 @@
 
 ![imeg](https://github.com/semioshkoan/8-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_133.png)
 
-### результаты выполнения сборки
+### Вывод консоли
 
 ```
 Started by user andrey
